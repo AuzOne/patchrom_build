@@ -1,5 +1,5 @@
 # The currently supported products
-PRODUCTS := i9500 note3 note2
+PRODUCTS := i9500 note3 note2 n7000 gnote
 
 PRODUCTS := $(strip $(PRODUCTS))
 PRODUCT  := $(strip $(PORT_PRODUCT))
